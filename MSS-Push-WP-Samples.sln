@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSS-Push-WP-Samples", "MSS-Push-WP-Samples", "{38DF64FF-906D-4DEC-9E2B-1AC0D11E6F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushWP8Sample", "PushWP8Sample\PushWP8Sample\PushWP8Sample.csproj", "{524D1A39-A86F-4B2D-9C5F-DDC366098897}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "push-wp8-sample", "push-wp8-sample\push-wp8-sample\push-wp8-sample.csproj", "{524D1A39-A86F-4B2D-9C5F-DDC366098897}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "push-wp81-sample.WindowsPhone", "push-wp81-sample\push-wp81-sample.WindowsPhone\push-wp81-sample.WindowsPhone.csproj", "{9AC55F3B-DFC2-4101-B438-63B718900FE3}"
 EndProject

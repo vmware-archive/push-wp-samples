@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DX122-WIN8</Machine>
+    <WindowsUser>DX122</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e17435ea-5ff9-4899-805e-22111577d1b6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\bin\Debug\push-wp81-sample.Windows.exe">
+      <PackagePath>push-wp81-sample.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\bin\Debug\push-wp81-sample.Windows.xr.xml">
+      <PackagePath>push-wp81-sample.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp81-sample\push-wp81-sample\push-wp81-sample.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DX122-WIN8</Machine>
+    <WindowsUser>DX122</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f5750cb3-5ff2-410f-a224-c9c44b359af7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\push-wp81-sample.WindowsPhone.exe">
+      <PackagePath>push-wp81-sample.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\MSSPush-Base.dll">
+      <PackagePath>MSSPush-Base.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\MSSPush-Universal.dll">
+      <PackagePath>MSSPush-Universal.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\push-wp81-sample.WindowsPhone.xr.xml">
+      <PackagePath>push-wp81-sample.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DX122.DX122-WIN8\Documents\work\MSS-Push-WP-Samples\push-wp81-sample\push-wp81-sample.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PushWP8Sample" EntryPointType="PushWP8Sample.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PushWP8Sample" Source="PushWP8Sample.dll" />
+    <AssemblyPart x:Name="MSSPush-Base" Source="MSSPush-Base.dll" />
+    <AssemblyPart x:Name="MSSPush-WP8" Source="MSSPush-WP8.dll" />
+  </Deployment.Parts>
+</Deployment>

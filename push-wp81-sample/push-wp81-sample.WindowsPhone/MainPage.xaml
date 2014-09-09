@@ -1,0 +1,62 @@
+﻿<Page x:Name="Page"
+      x:Class="push_wp81_sample.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:push_wp81_sample"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+      Loaded="Page_Loaded">
+
+    <Grid x:Name="ContentPanel">
+        <!--Create a 2 x 2 grid to store an image and button layout.-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid x:Name="buttonList"
+                    Grid.Row="0"
+                    Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <Button x:Name="RegisterButton"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Content="Register"
+                    Click="RegisterButton_OnClick"
+                    HorizontalAlignment="Center"/>
+            <Button x:Name="UnregisterButton"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Content="Unregister"
+                    Click="UnregisterButton_OnClick"
+                    HorizontalAlignment="Center"/>
+            <Button x:Name="TestPushButton"
+                    Grid.Row="0"
+                    Grid.Column="2"
+                    Content="Test Push"
+                    Click="TestPushButton_OnClick"
+                    HorizontalAlignment="Center"/>
+        </Grid>
+
+        
+        <TextBox x:Name="OutputTextBox"
+                 Grid.Column="0"
+                 Grid.Row="1"
+                TextWrapping="Wrap"
+                 Text="Press 'Register' to try registering for push notifications."
+                IsReadOnly="true"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Stretch"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushWP8Sample", "PushWP8Sample\PushWP8Sample.csproj", "{524D1A39-A86F-4B2D-9C5F-DDC366098897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug WP Universal|Any CPU = Debug WP Universal|Any CPU
+		Debug WP Universal|ARM = Debug WP Universal|ARM
+		Debug WP Universal|x64 = Debug WP Universal|x64
+		Debug WP Universal|x86 = Debug WP Universal|x86
+		Debug WP8|Any CPU = Debug WP8|Any CPU
+		Debug WP8|ARM = Debug WP8|ARM
+		Debug WP8|x64 = Debug WP8|x64
+		Debug WP8|x86 = Debug WP8|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|Any CPU.ActiveCfg = Debug WP Universal|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|Any CPU.Build.0 = Debug WP Universal|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|Any CPU.Deploy.0 = Debug WP Universal|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|ARM.ActiveCfg = Debug WP Universal|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|ARM.Build.0 = Debug WP Universal|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|ARM.Deploy.0 = Debug WP Universal|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|x64.ActiveCfg = Debug WP Universal|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|x86.ActiveCfg = Debug WP Universal|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|x86.Build.0 = Debug WP Universal|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP Universal|x86.Deploy.0 = Debug WP Universal|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|Any CPU.ActiveCfg = Debug WP8|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|Any CPU.Build.0 = Debug WP8|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|Any CPU.Deploy.0 = Debug WP8|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|ARM.ActiveCfg = Debug WP8|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|ARM.Build.0 = Debug WP8|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|ARM.Deploy.0 = Debug WP8|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|x64.ActiveCfg = Debug WP8|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|x86.ActiveCfg = Debug WP8|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|x86.Build.0 = Debug WP8|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug WP8|x86.Deploy.0 = Debug WP8|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|ARM.ActiveCfg = Debug|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|ARM.Build.0 = Debug|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|ARM.Deploy.0 = Debug|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|x86.ActiveCfg = Debug|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|x86.Build.0 = Debug|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Debug|x86.Deploy.0 = Debug|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|ARM.ActiveCfg = Release|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|ARM.Build.0 = Release|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|ARM.Deploy.0 = Release|ARM
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|x64.ActiveCfg = Release|Any CPU
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|x86.ActiveCfg = Release|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|x86.Build.0 = Release|x86
+		{524D1A39-A86F-4B2D-9C5F-DDC366098897}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

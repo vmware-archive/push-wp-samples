@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Bin\Release\PushWP8Sample_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="9/5/2014 2:54:32 PM">
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Release\PushWP8Sample.dll" archivePath="PushWP8Sample.dll" lastWriteTime="9/5/2014 2:54:32 PM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="8/28/2014 4:46:21 PM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="8/19/2014 10:13:28 AM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="8/19/2014 10:13:28 AM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="8/19/2014 10:13:28 AM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="8/19/2014 10:13:28 AM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/5/2014 2:53:10 PM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="8/28/2014 5:02:52 PM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="8/19/2014 10:13:28 AM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\lib\MSSPush-Base.dll" archivePath="MSSPush-Base.dll" lastWriteTime="9/5/2014 2:18:29 PM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\lib\MSSPush-WP8.dll" archivePath="MSSPush-WP8.dll" lastWriteTime="9/5/2014 2:18:29 PM" />
+  <file source="C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/5/2014 2:53:10 PM" />
+</xapCache>

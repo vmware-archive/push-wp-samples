@@ -1,0 +1,21 @@
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\Assets\ApplicationIcon.png
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\Assets\Tiles\IconicTileSmall.png
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\PushWP8Sample.dll
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\AppManifest.xaml
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\Properties\WMAppManifest.xml
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\PushWP8Sample_Debug WP8_AnyCPU.xap
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\MSSPush-Base.dll
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\MSSPush-WP8.dll
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\MSSPush-Base.pdb
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\bin\Debug WP8\MSSPush-WP8.pdb
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Debug WP8\App.g.cs
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Debug WP8\MainPage.g.cs
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Debug WP8\PushWP8Sample.g.resources
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Debug WP8\PushWP8Sample.Resources.AppResources.resources
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Debug WP8\PushWP8Sample.csproj.GenerateResource.Cache
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Debug WP8\PushWP8Sample.dll
+C:\Users\DX122.DX122-WIN8\Documents\work\push-wp8-samples\PushWP8Sample\PushWP8Sample\obj\Debug WP8\XapCacheFile.xml

@@ -107,9 +107,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="MSSPush-Base">
       <HintPath>lib\MSSPush-Base.dll</HintPath>
     </Reference>
